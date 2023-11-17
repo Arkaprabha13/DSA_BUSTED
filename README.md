@@ -25,16 +25,9 @@ Each folder contains code examples, explanations, and sometimes complexity analy
 ## Languages
 You'll find implementations in multiple programming languages, including:
 - C++
-- Python
-- Java
-- JavaScript
-- and more.
-
+- C
+use chatgpt to create code of other languages 
 Choose the language you are most comfortable with to explore the code.
 
-## Getting Started
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/your-dsa-repo.git
 
-All good question's with proper solution.
+<h1>All good question's with solution.</h1>
