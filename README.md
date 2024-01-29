@@ -29,5 +29,4 @@ You'll find implementations in multiple programming languages, including:
 use chatgpt to create code of other languages 
 Choose the language you are most comfortable with to explore the code.
 
-
 <h1>All good question's with solution.</h1>
